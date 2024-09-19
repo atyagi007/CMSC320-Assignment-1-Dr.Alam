@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: We might consider using git for better branching and merging as we can use seperate branches and merge code bases together. 
