@@ -1,3 +1,10 @@
+
 Q1: Why might be consider using git?
 
 Answer: We might consider using git for better branching and merging as we can use seperate branches and merge code bases together. 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: There are many fields but in particular it could help with a pharama industry. As I interned at Merck over the summer I learned that it could be used for developing business strategies and 
+marketing strategies in the pharma industry and many other industries as well.
+
