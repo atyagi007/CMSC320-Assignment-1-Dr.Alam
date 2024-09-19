@@ -8,3 +8,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: There are many fields but in particular it could help with a pharama industry. As I interned at Merck over the summer I learned that it could be used for developing business strategies and 
 marketing strategies in the pharma industry and many other industries as well.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the histories of two branches into a one single branch that combines them. 
+Rebasing instead  moves a sequence of commits to a new base commit.
+
